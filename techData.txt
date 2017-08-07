@@ -1,0 +1,294 @@
+access@ to call up information out of storage.@
+randomaccess@ technique that permits stored information to be directly retrieved, regardless of its location on the storage medium.@
+sequentialaccess@ a technique for retrieving stored information that requires a sequential search through one item after another on the storage medium.@
+accesstime@ the amount of time it takes a computer to locate stored information.@
+adapter@ a circuit board that plugs into a computer and gives it additional capabilities.@
+antivirussoftware@ a program designed to look for and destroy a virus that may have infected a computer’s memory or files.@
+application@ a program designed to perform information processing tasks for a specific purpose or activity.@
+archive@ a file compressed for more efficient use of storage space.@
+ascendingsort@ sorting records from a to z or 0 to 9.@
+ascii@ an acronym derived from american standard code for information interchange. the use of this standard code permits computers made by different manufacturers to communicate with one another.@
+backgroundprinting@ the ability of a computer to print a document while other work is being done on the keyboard and the display screen at the same time.@
+backup@ storage of duplicate files on disks, diskettes, or some other form of magnetic medium (such as tapes) as a safety measures in case the original medium is damaged or lost.@
+basicinputoutputsystem@ a set of programs stored in read-only memory. these programs control the disk drives, the keyboard, and the display screen, and they handle start-up operations@
+boilerplate@ standard wording (for example, sentences or paragraphs in form letters or clauses in legal documents) that is held in storage. when needed, it can be used as is, with minor modification, or in combination with new material to produce tailor-made documents.@
+bookmarklist@ a customized list of a user’s favorite web sites. a bookmark list permits the user to access a particular web site with single command.@
+boot@ to start a computer and load the operating system to prepare the computer to execute an application.@
+browser@ see web browser.@
+buffer@ a holding area in memory that stores information temporarily. also called cache.@
+bug@ a defect in the software that causes the computer to malfunction or cease to operate. some writers now use bug to refer to hardware problems as well.@
+bulletinboardsystem@ an online information system, usually set up by an individual@
+buttonbar@ an on-screen element that offers instant access to commonly used commands. the commands are represented by icons on a row of bottoms at the top at the top of the screen. also called a tool bar.@
+byte@ the sequence of bits that represents a character. each byte has 8 bits@
+carpaltunnelsyndrome@ a wrist or hand injury caused by using a keyboard for long periods of time. a type of repetitive strain injury.@
+cdrom@ an acronym derived from compact disk-read only memory. a form optical storage. one compact disk can hold up to 250,000 text pages; it can also be used to store graphics, sound, and video.@
+cell@ a box or rectangle within a table or spreadsheet where a column and a row intersect; an area in which information can be entered in the form of text or figures.@
+character@ a single letter, figure, punctuation mark, or symbol produced by a keystroke on a computer.@
+characterset@ the compete set of characters, alphabetic, numeric, and symbolic.@
+characterperinch@ the number of characters in a font that will fit within 1 inch.@
+characterspersecond@ the number of characters printed in 1 second; a measurement frequency used to describe the speed of a printer.@
+checkbox@ a small box that appears on screen alongside each option displayed in a dialog box. when an option is selected, an x or a check mark appears inside the box.@
+chip@ an integrated circuit used in computers.@
+circuitboard@ a board or card that carries the necessary electronic components for a particular computer function.@
+clear@ a command to erase information@
+click@ to quickly pres and release a mouse button once while the cursor (mouse pointer) is positioned over a specific item on the screen.@
+clientservercomputing@ a network of computers that consist of a file server and individual clients.@
+clipboard@ a holding area in memory where information that has been copied or cut can be stored until the information is inserted elsewhere.@
+column@ a vertical block of cells in a table or spreadsheet.@
+command@ an instruction that causes a program or computer to perform a function. a command may be given by means of a special keystroke, or the command may be chosen from a menu.@
+commercialonlineservice@ see internet service provider.@
+compatibility@ the ability of one type of computer to share information or to communicate with another type of computer.@
+computer@ an electronic devise that is capable of (1) accepting, storing, and logically manipulating data or text that input and (2) processing and producing output (results or decisions) on the basis of stored programs of instructions.@
+controlmenu@ an on-screen windows element that appears in a box in the upper left corner of a window. the control menu allows the user the option of adjusting the size of the window, closing or reopening the window, or switching to another window.@
+cookie@ a devise that permits a web site to identify and collect information about every user who visits that site.@
+copy@ to reproduce information elsewhere. the original information remains in place.@
+cpu@ see central processing unit.@
+cracker@ the preferred term to refer to a computer criminal who penetrates a computer program to steal information or damage the program in some way.@
+crash@ a malfunction in hardware or software that keeps a computer from functioning.@
+cursor@ a special character that indicates where the next typed character will appear on the display screen.@
+cursorpositioning@ the movement of the cursor on the display screen. most computes have four keys to control up, down, left, and right movement@ many computes also permit the use of a mouse to position the cursor.@
+cut@ to remove text from its original location and place it on a clipboard.@
+cutandpaste@ to move a block of text from one place to another.@
+cyberspace@ a realistic simulation of a three-dimensional world created by a computer system; also referred to as virtual reality. now commonly used to refer to the world of the internet as a whole.@
+cybrarian@ the electronic equivalent of a librarian. a person who makes a career of online research and data retrieval.@
+data@ information consisting of letter, numbers, symbols, sound, or images in a form that can be processed by a computer.@
+datacompression@ a procedure for reducing the volume of data so as to shorten the time needed to transfer the data.@
+database@ a stored collection of information.@
+databasemanagementsystem@ the software needed to establish and maintain database and manage the stored information.@
+debugging@ locating and eliminating defects in a program.@
+defaultsettings@ the pre-established settings that a program will follow unless the user changes them.@
+delete@ a command to erase information in storage.@
+descendingsort@ sorting records from z to a or 9 to ).@
+desktop@ the electronic work area on a display screen.@
+desktopcomputer@ a microcomputer that is bigger than a laptop.@
+desktoppublishing@ a system that processes the text and graphics and, by means of page layout software and a laser printer, produces high-quality pages suitable for printing or in-house reproduction.@
+dialogbox@ a message box on the screen that supplies information to or requests information from the user.@
+dictionary@ a program used to check the spelling of each word entered in the computer.@
+directory@ a list of the files stored on a disk.@
+disk@ a random-access, magnetically coated storage medium used to store and retrieve information.@
+diskdrive@ the component of a computer into which a disk is inserted so that it can be reads or written on.@
+diskette@ a small, no rigid disk with limited storage capacity. also know as a floppy disk.@
+displayscreen@ a devise similar to a television screen and used on a computer to display text and graphics.@
+document@ any printed business communication for example, a letter, memo, report, table, or form.@
+domain@ typically, a three letter element in a web address or an e-mail address. the domain, commonly referred to as the zone, indicates the type of organization that owns the computer being identified in the address. for example, com signifies a commercial organization; edu signifies an educational institution.@
+domainname@ the second part of an e-mail address what follows the symbol. the name of the computer intended to receive an e-mail message. in web addresses (urls) this element is referred to as the host name@
+dos@ an acronym derived from disk operating system. a program that allows the computer to manage the storage of information on disks and control as other aspects of a computer’s operation.@
+dot@ the period symbol used in e-mail addresses. always referred to as a dot (never a period). thus the domain name aol.com would be pronounced ay-oh-ell dot-com. internet surfers who spend a lot of time in the. com domain are sometimes referred to as dot communists.@
+dotmatrixprinter@ a printer that uses pins to produce characters made up of small dots.@
+doubleclick@ to quickly press and release a mouse button twice while the cursor is positioned over a specific item on the screen@
+download@ to transfer information to the user’s computer from another computer.@
+draganddropediting@ a software feature that allows the user to (1) highlight text to be moved and (2) use a mouse to drag the text to a new location.@
+duplexing@ a procedure that permits two computers to transmit data to each other simultaneously.@
+dvd@ digital video disc (predicted to replace the cd-rom).@
+dynamicdataexchange@ a technology that permits the user to transfer or paste data from one application (for example a spread sheet) to another (for example, a report). because of the dynamic link created by this technology, any change in the data in the original application will be automatically reflected in the data copied in the second application.@
+easteregg@ an unexpected image or message that pops up on the display screen when the user innocently enters a secret combination of keystrokes. programmers playfully code easter eggs into software and operating systems as a way of surprising and amusing users engaged in more serious tasks.@
+email@ the term e-mail(short for electronic mail) refers to the transfer of messages or documents between users connected by an electronic network.@
+enter@ to input data into memory.@
+escapekey@ a key that permits the user to leave one segment of a program and move to another.@
+execute@ to perform an action specified by the user or the program.@
+export@ to save information in a format that another program can read.@
+extranet@ a technology that permits users of one organization’s intranet to enter portions of another organization’s intranet in order to conduct business transactions or collaborate on joint projects.@
+ezine@ the term e-zine refers to a magazine published in an electronic format. also called webzine.@
+facetime@ time spent dealing with someone face to face.@
+faq@ frequently asked questions. pronounced as a word or as separate letters.@
+fax@ a shortened form of the word facsimile. a copy of a document transmitted electronically from one machine to another.@
+fax@ to transmit a copy of a document electronically.@
+faxmodem@ a device built into or attached to a computer that serves as a facsimile machine and a modem.@
+field@ a group of related characters treated as a unit; also the area reserved for the entry of a specified piece of information.@
+file@ a collection of information stored electronically and treated as a unit by a computer. every file must have its own distinctive name.@
+filename@ the name assigned to a file stored on a disk.@
+filetransferprotocol@ a set of guidelines or standards that establish the format in which files can be transmitted from one computer to another.@
+firewall@ software that prevents unauthorized persons from accessing certain parts of a program, database, or network.@
+flame@ an inflammatory e-mail message; one deliberately designed to insult and provoke the recipient.@
+floppydisk@ see diskette.@
+folder@ a storage area on a disk used to organize files.@
+font@ a typeface of a certain size and style. includes all letters of the alphabet, figures, symbols, and punctuation marks.@
+footer@ repetitive information that appears at the bottom of every page of a document. a page number is a common footer.@
+footnotefeature@ the ability of a program to automatically position footnotes on the same page as the text they refer to. if the text is moved to another page, any related footnotes will also be transferred to that page.@
+footprint@ the amount of space a computer occupies on a flat surface.@
+forelash@ negative reactions to a technology not yet in existence but excessively promoted in advance.@
+format@ the physical specifications that affect the appearance and arrangement of a document, for example, margins, spacing, and font.@
+formsmode@ the ability of a program to store the format of a black document or form so that it can later be viewed on the display screen and completed by the user. once a fill in has been entered, the cursor automatically advances to the beginning of the next area to be filled in.@
+freeware@ copyrighted software that is available for use without charge.@
+functionkeys@ keys on a keyboard that give special commands to the computer for example, to set margins or tabs.@
+gigo@ garbage in, garbage out. in other words, your computer output is only as good as your computer input.@
+glitch@ a hardware problem that causes a computer to malfunction or crash.@
+global@ describing any function that can be performed on an entire document without requiring individual commands for each use. for example, a global search and replace command will instruct the computer to locate a particular word or phrase and replace it with a different word or phrase wherever the original form occurs in the document.@
+gopher@ the term gopher refers to a protocol used for locating and transferring information on the internet. the use of gopher is diminishing as the use of the web’s hypertext transfer protocol (http) gains in popularity.@
+graphics@ pictures or images presented or stored using a computer.@
+hack@ to work on an electronic project.@
+hacker@ a dedicated computer programmer. the term hacker is sometimes used erroneously to refer to a computer criminal who penetrates and damages a computer program. the preferred term for a computer criminal is cracker.@
+handheldcomputer@ a portable computer smaller than a notebook computer. also called a palmtop computer.@
+hardcopy@ text or graphics printed on paper; also called a printout.@
+harddisk@ a rigid type of magnetic medium that can store large amounts of information.@
+hardhyphen@ a hyphen that is a permanent character in a word. a word that contains a hard hyphen will not be divided at this point if the word comes at the end of a line.@
+hardpagebreak@ a page ending code or command inserted by the use that cannot be changed by the program. a had page break is often used to prevent a table from being divided between two pages and to signify that a particular section of a document has ended and the following text should start on a new page.@
+hardreturn@ a command used to end a paragraph, end a short line of text, or insert a blank line in the text.@
+hardspace@ a space inserted between words in a phrase that should remain together. the had space ensures that the phrase will not be broken at the end a line.@
+hardware@ the physical components of a computer: the central processing unit, the display screen, the keyboard, the disk drive, and the printer.@
+hardwired@ describing any computer function that cannot be easily modified.@
+header@ repetitive information that appears at the top of every page of a document. a page number is a common header.@
+hit@ a single request for information made by a client computer from a web server. the popularity of a given web site is measured by the number of its it receives.@
+home@ the upper left corner of the display screen; the starting position of a page or document.@
+homepage@ the main page for a web site established by an organization or an individual; it usually serves as the entrance for a series of related pages.@
+hostcomputer@ a computer that provides information or a service to other computers on the internet. every host computer has its own unique host name.@
+hotkey@ a keyboard shortcut that allows quick access to a command or menu option.@
+hotlist@ see bookmark list@
+html@ see hypertext markup language.@
+http@ see hypertext transfer protocol.@
+hypermedia@ an extension of hypertext that integrates audio, video, and graphics with text.@
+hypertext@ a technology that links text in one part of a document with related text in another part of the document or in other documents. a user can quickly find the related text by clicking on the appropriate keyword, key phrase, icon, or button.@
+html@ the formatting language used to establish the appearance of a web page.@
+http@ the protocol used on the world wide web that permits web clients (web browsers to communicate with web servers. this protocol allows programmers to embed hyperlinks in web documents using hypertext markup language.@
+hyphenation@ the ability of a program to automatically hyphenate and divide words that do not fit at the end of a line. if the text is later revised so that the divided word no longer begins at the right margin, the hyphen is automatically removed and the word prints solid.@
+icon@ a symbol that represents a certain function. when the user clicks on the icon, the appropriate function is executed.@
+import@ to retrieve any text or other information created by one program and transfer it to another program.@
+indexing@ the ability of a program to accumulate a list of words or phrases that appear in a document along with their corresponding page numbers and to print or display the list in alphabetic order.@
+informationprocessing@ the coordination of people, equipment, and procedures to handle information, including the storage, retrieval, distribution, and communication of information. the term information processing embraces the entire field of processing words, figures, graphics, video, and voice input by electronic means.@
+informationsuperhighway@ the internet. also referred to as the infobahn.@
+inkjetprinter@ a no impact printer that forms characters by spraying tiny, electrically charged ink droplets on paper.@
+input@ information entered into the computer for processing.@
+input@ to enter information into the computer.@
+insertionpoint@ see cursor.@
+integratedcircuit@ multiple electronic components combined on a tiny silicon chip.@
+integratedsoftware@ software that combines in one program a number of functions normally performed by separate programs.@
+interface@ the software that controls the interaction between the hardware and the user.@
+internet@ a system that links existing computer networks into a worldwide network. the internet may be accessed by means of commercial online services (such as america online) and internet service providers.@
+internetcommunity@ a group of individuals with common interests, who frequently exchange ideas on the internet.@
+internetserviceprovider@ an organization that provides access to the internet for a fee. companies like america online are more properly referred to as a commercial online services because they offer many other services in addition to internet access.@
+intranet@ a private network established by an organization for the exclusive use of its employees. firewalls prevent outsiders from gaining access to an organization’s intranet.@
+io@ an abbreviation for input/output.@
+isp@ see internet service provider.@
+justification@ aligning lines of text at the left margin, the right margin, both margins, or the center@ text aligned at both margins is considered fully justified.@
+korkb@ see kilobyte.@
+key@ to enter characters into the memory of a computer.@
+keyboard@ the device used to enter information into a computer.@
+keystroke@ the depression of one key on a keyboard.@
+kilobyte@ a measurement of the storage capacity of a computer. one kilobyte represents 1024 bytes kilobyte may be abbreviated k or kb; however, kb is the clearer abbreviation since k also stands for the metric prefix kilo (meaning 1000).@
+lan@ see network.@
+landscapeorientation@ the positioning of a page so that information is printed across the long dimension of the paper.@
+language@ the characters and procedures used to write programs that a computer is designed to understand.@
+laptopcomputer@ a portable computer slightly larger than a notebook computer.@
+laserprinter@ a nonimpact printer that produces sharper text and graphics than any other type of printer.@
+lcd@ see liquid crystal display.@
+lineorparagraphnumbering@ the ability of a program to automatically number each line or paragraph sequentially in a document. the line or paragraph numbers can be deleted before the preparation of the final printout.@
+linespacing@ the ability of a program to automatically change vertical line spacing.@
+liquidcrystaldisplay@ a type of monitor typically used on laptop computers or portable computers.@
+listserv@ any software that manages a mailing list.@
+load@ to transfer information or program instructions into a computer’s memory.@
+logoff@ to exit or leave a computer system.@
+logon@ to access a computer system.@
+macro@ a time saving feature like telephone speed dialing that allows the user to store in memory a set of keystrokes or commands that will accomplish a certain task.@
+mailmerge@ the process of taking information from a database and inserting it into a form letter or other document in order to customize the document for an individual recipient. for example, mail merge can be used to create the inside address and the salutation for a form letter.@
+mailbomb@ a deluge of e-mail messages from one or more sources, deliberately intended to overload the recipient’s computer and make it crash. a mailbomb is typically sent to punish someone guilty of spamming or some other serious breach of netiquette.@
+mailinglist@ an e-mail discussion group devoted to one or more specific topics@
+mainframe@ a large computer system.@
+megabyte@ a measurement of the storage capacity of a computer. one megabyte represents more than 1 million bytes. megabyte may be abbreviated m or mb; however, mb is clearer since m also stands for the metric prefix mega (meaning 1 million).@
+megahertz@ a measurement used to identify the speed of the central processing unit. one megahertz is equal to 1 million cycles per second.@
+memory@ the part of a computer that stores information.@
+ram@ the temporary memory that allows information to be stored randomly and accessed quickly and directly ( without the need to go through intervening data.@
+menu@ a list of choices shown on the display screen. for example, a format menu would include such options as the type style and the type six to be selected. a menu is often referred to as a pull down menu or a pop up menu because it appears on screen after the user clicks on the menu bar or on some other items on the screen.@
+menubar@ the bar across the top of the screen or window that displays the names of available menus.@
+merge@ a command to create one file by combining information that is stored in two different locations. for example, a computer can merge the text in a form letter with a mailing list to produce a batch of letters with a different name, address, and salutation on each letter.@
+microcomputer@ a small and relatively inexpensive computer, commonly consisting of a display screen, a keyboard, a central processing unit, one or more disk drives, and a private printer, with limited storage based upon a microprocessor.@
+modem@ an acronym derived from modulator/demodulator. a device that (1) converts digital signals into tones for transmission over telephone lines and (2) converts the tones back into digital signals at the receiving end.@
+monitor@ the display screen of a computer.@
+mouse@ a hand operated electronic device used to move a cursor or pointer on the display screen.@
+mousearrest@ to be placed under mouse arrest is to be denied further access to an internet service provider or a commercial online service as a result of violating the terms of service.@
+mouseelbow@ a repetitive strain injury similar to tennis that is caused by repeatedly using a mouse.@
+mousepotato@ a person who sits glued to a computer screen in the same way that a couch potato sits glued to a tv screen.@
+msdos@ derived from microsoft disk operating system. an operating system used on ibm and ibm compatible microcomputers.@
+multimedia@ the use of several types of media in a document or an application.@
+multitasking@ the ability of a computer to execute more than one program at a time.@
+net@ see internet.@
+netiquette@ a set of guidelines of formatting and composing e-mail messages.@
+network@ a system of interconnected computers.@
+offline@ referring to the state in which a computer is temporarily or permanently unable to communicate with another computer. the term offline is also used humorously to refer to “real life".@
+offscreen@ referring to any computer function that does not produce a display on the screen.@
+online@ referring to the state in which a computer is turned on and ready to communicate with other computers.@
+onscreen@ referring to anything displayed on a computer screen.@
+open@ to transfer a file from a disk into a computer’s memory.@
+ocr@ a device that can scan text from hard copy and enter it automatically into a computer for storage or editing.@
+outlining@ the ability of a program to automatically number and letter items typed in an indented format.@
+output@ the results of a computer operation.@
+overwriting@ recording and storing information in a specific location on a storage medium that destroys whatever had been stored there previously.@
+pagebreak@ a command that tells the printer where to end one page and begin the next.@
+pagenumbering@ the ability of a program to automatically print page numbers on the pages that make up an entire document. if the document is revised and the total number of pages changes, the page numbering is automatically adjusted.@
+palmtopcomputer@ a portable computer smaller than a notebook computer.@
+papernet@ ordinary mail service.@
+password@ a user’s secret identification code, required to access stored material. a procedure intended to prevent information from being accessed by unauthorized persons.@
+paste@ a command that transfers information from a clipboard and inserts it in another location.@
+patch@ a small program that improves an existing piece of software or corrects an error in it.@
+pc@ see personal computer.@
+personalcomputer@ a microcomputer for personal and office use.@
+personaldigitalassistant@ a palm sized, handheld computer.@
+personalinformationmanager@ a database management system that permits a user to store and retrieve a wide range of personal information.@
+pica@ a measurement used for a font; equal to 1/6 inch or 12 points.@
+pitch@ the number of monospace characters printed in a 1-inch line of text.@
+point@ a measurement used to indicate the size of a font; 72 points equals 1 inch.@
+popupmenu@ a menu that appears in a dialog box.@
+port@ a socket on a computer into which an external device can be plugged.@
+posting@ an article sent to a usenet newsgroup.@
+printpreview@ a software feature that reduces the pages of a document so that a full page can be seen on the screen before being printed. this feature permits the user to spot and correct problems.@
+printers@ output devices of various types that produce copy on paper.@
+printout@ the paper copy of information produced on a printer.@
+program@ an established sequence of instructions that tells a computer what to do. the term program means the same as software.@
+prompt@ an onscreen symbol that indicates where to type a command; a message that indicates what action is to be taken.@
+protocol@ a set of standards that permits computers to exchange information and communicate with each other.@
+radiobutton@ an onscreen element that allows a user to select one option from a group of items. an empty circle precedes each option not elected. a dot appears in a circle to signify that the user has selected that option.@
+ram@ see memory@
+read@ to transfer information from an external storage medium into internal storage.@
+record@ a collection of all the information pertaining to a particular subject.@
+responsetime@ the time a computer takes to execute a command.@
+retrieve@ to call up information from memory so that it can be processed in some way.@
+row@ a horizontal block of cells in a table or spreadsheet.@
+ruler@ a bar that shows the width of the page, the margin settings, the paragraph indentions, and the tab stops.@
+save@ to store a program or data on a storage device such as a disk.@
+scanner@ an input devise that can copy a printed page into a computer’s memory, thus doing away with the need to type the copy. a scanner can also convert artwork and photographs into a digital format and store these in memory.@
+screen@ see display screen.@
+screendump@ a printout of what is displayed on the screen.@
+screensaver@ a program that changes the screen display while the user is away from the computer. without the use of a screen saver, a screen image that remains on display for any length of time can damage the screen.@
+scroll@ to move information horizontally or vertically on a display screen so that one can see parts of a document that is too wide or too deep to fit entirely on one screen.@
+scrollbar@ an onscreen element that allows a user to scroll by using a mouse.@
+searchandreplace@ a command that directs the program to locate a character string or information wherever it occurs in a document and replace this material with new information.@
+server@ a computer that delivers data to other computers linked on the same network.@
+shouting@ the use of all capital letters in e-mail.@
+sigblock@ the signature block that automatically appears at the end of every outgoing e-mail message.@
+snailmail@ a term employed by e-mail users to refer to regular mail service.@
+softcopy@ information shown on the display screen.@
+software@ the instructions that a computer needs to perform various functions.@
+sort@ to arrange fields, records, or files in a predetemitted sequence.@
+spam@ the electronic equivalent of junk mail.@
+spider@ a program that searches the web for new web sites.@
+splitscreen@ the ability of some programs to display information in two or more different areas on the screen at the same time.@
+spreadsheet@ a program that provides a worksheet with rows and columns to be used for calculations and the preparation of reports.@
+storage@ the memory of a computer.@
+externalstorage@ a magnetic medium such as a disk, diskette, or tape used to store information; can be removed from the computer.@
+internalstorage@ an integral component of a computer; cannot be removed.@
+store@ to place information in memory for later use.@
+surfingthenet@ browsing through various web sites on the internet in search of interesting things.@
+tabgird@ a series of preset indentions.@
+telecommunications@ the process of sending and receiving information by means of telephones, satellites, and others devices.@
+teleconferencing@ conducting a conference by using computers, video, and telecommunications to share sound and images with others at remote sites.@
+telnet@ a protocol that allows a computer to connect with a host computer on the internet.@
+template@ a pre established format for a document, stored in a computer. the template determines the margins, the type style and size to be used for the text, placement instructions for various elements and design specifications for certain items.@
+terminal@ any device that can transmit or receive electronic information.@
+text@ the information displayed on a screen or printed on paper.@
+textentry@ the initial act of typing that places text in storage.@
+toolbar@ see button bar.@
+touchpad@ the device on a laptop computer that takes the place of a mouse.@
+type@ to enter characters into memory of a computer. for a number of years the verb type began to be replaced by the verb key as a way of emphasizing the difference between a computer and a typewriter.@
+typeover@ see overwriting.@
+upload@ to transfer information from a client computer to a host computer.@
+userfriendly@ describing hardware or software that is easy to use.@
+virus@ a piece of computer code designed as a prank or malicious act to spread from one computer to another by attacking itself to other programs. some viruses simply cause a humorous message to appear on the screen, some cause minor glitches, and some cause serious damage to a computer’s memory or disks.@
+voicenet@ ordinary telephone service.@
+web@ see world wide web.@
+webbrowser@ software that permits a user, with a click of a mouse, to locate, display, and download text, video, audio, and graphics stored in a host computer on the web. the most common web browsers now in use are google, netscape navigator, and microsoft explorer.@
+webmaster@ the person who maintains a specific web site and is responsible for what appears there.@
+website@ one or more related pages created by an individuals or an organization and posted on the world wide web.@
+wizard@ a feature of microsoft word software that helps a user create a customized document; it asks the user questions about formatting and content options and uses the answer to create the document.@
+wordprocessing@ the electronic processing of creating, formatting, editing, proofreading, and printing documents.@
+workstation@ a desktop computer that runs applications and serves as an access point in a local area network.@
+worldwideweb@ the component of the internet that combines audio, video, and graphics with text.@
+www@ the world wide web.
