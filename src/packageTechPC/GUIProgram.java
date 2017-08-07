@@ -47,7 +47,7 @@ public class GUIProgram extends JPanel implements ActionListener {
 		panel.add(label);
 		//textArea.setText(techData.search(trieList, textField.getText()));
 		
-		JButton b = new JButton("Google");
+		JButton b = new JButton("Search Online");
 		
 		textArea.setLineWrap(true);
 		textArea.setWrapStyleWord(true);
@@ -55,6 +55,13 @@ public class GUIProgram extends JPanel implements ActionListener {
 		panel.add(textArea, BorderLayout.SOUTH);panel.add(b);
 		add(panel);// , c);
 
+		b.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e){
+				google(textField.getText().toLowerCase());
+			}
+
+		});
 		/*
 		 * c.fill = GridBagConstraints.BOTH; c.weightx = 1.0; c.weighty = 1.0;
 		 * add(scrollPane, c);
@@ -78,15 +85,20 @@ public class GUIProgram extends JPanel implements ActionListener {
 		textField.selectAll();*/
 		
 		HashMap<String, String> hmap = TechTermsHash.buildHeap();
-		System.out.println(hmap.get("Touchpad".toLowerCase()));
+		//System.out.println(hmap.get("Touchpad".toLowerCase()));
+		String str =hmap.get(text.toLowerCase()) ;
 		
-		textArea.append(hmap.get(text.toLowerCase()) + newline);
+		if(str != null)
+			textArea.setText("\n"+text+": "+hmap.get(text.toLowerCase()) + newline);
+		else
+			textArea.setText("\n"+text+": "+"Not Found in the DataBase" + newline);
+		
+		
 		textField.selectAll();
 
 		// Make sure the new text is visible, even if there
 		// was a selection in the text area.
 		textArea.setCaretPosition(textArea.getDocument().getLength());
-		google(hmap.get(text.toLowerCase()));
 		
 	}
 public void google(String str){
@@ -106,7 +118,7 @@ public void google(String str){
 	 */
 	private static void createAndShowGUI() throws IOException, SQLException {
 		// Create and set up the window.
-		JFrame frame = new JFrame("TextDemo");
+		JFrame frame = new JFrame("TechPC");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		// Add contents to the window.
